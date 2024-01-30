@@ -14,7 +14,7 @@ Ensure you have the following dependencies installed:
 
 **Getting Started:**
 1. Install dependencies using `pip install -r requirements.txt`.
-2. Download the pre-trained shape predictor model (shape_predictor_68_face_landmarks.dat) from the dlib website or using the link "https://sourceforge.net/projects/dclib/" and place it in the project directory.
+2. Download the pre-trained shape predictor model (shape_predictor_68_face_landmarks.dat) from the dlib website and place it in the project directory.
 
 **Usage:**
 1. Run `main.py` to start the drowsy detection system.
